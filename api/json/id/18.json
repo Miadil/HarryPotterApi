@@ -1,0 +1,25 @@
+[
+  {
+    "id": 18,
+    "name": "Horace Slughorn",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "ancestry": "pure-blood",
+    "eyeColour": "green",
+    "hairColour": "blonde",
+    "wand": {
+      "wood": "cedar",
+      "core": "dragon heartstring",
+      "length": 10.25
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": true,
+    "actor": "Jim Broadbent",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
+  }
+]

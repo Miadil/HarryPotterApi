@@ -1,0 +1,25 @@
+[
+  {
+    "id": 26,
+    "name": "Hannah Abbott",
+    "species": "human",
+    "gender": "female",
+    "house": "Hufflepuff",
+    "dateOfBirth": "31-08-1980",
+    "yearOfBirth": 1980,
+    "ancestry": "half-blood",
+    "eyeColour": "Brown",
+    "hairColour": "Blonde",
+    "wand": {
+      "wood": "holly",
+      "core": "phoenix feather",
+      "length": 11
+    },
+    "patronus": "Non-corporeal",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/harry.jpg"
+  }
+]

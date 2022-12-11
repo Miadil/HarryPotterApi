@@ -1,0 +1,25 @@
+[
+  {
+    "id": 20,
+    "name": "Dolores Umbridge",
+    "species": "human",
+    "gender": "female",
+    "house": "Slytherin",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "ancestry": "half-blood",
+    "eyeColour": "brown",
+    "hairColour": "grey",
+    "wand": {
+      "wood": "birch",
+      "core": "dragon heartstring",
+      "length": 8
+    },
+    "patronus": "persian cat",
+    "hogwartsStudent": false,
+    "hogwartsStaff": true,
+    "actor": "Imelda Staunton",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
+  }
+]

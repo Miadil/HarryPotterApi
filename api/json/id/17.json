@@ -1,0 +1,25 @@
+[
+  {
+    "id": 17,
+    "name": "Lord Voldemort",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+    "dateOfBirth": "31-12-1926",
+    "yearOfBirth": 1926,
+    "ancestry": "half-blood",
+    "eyeColour": "red",
+    "hairColour": "bald",
+    "wand": {
+      "wood": "yew",
+      "core": "phoenix feather",
+      "length": 13.5
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Ralph Fiennes",
+    "alive": false,
+    "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
+  }
+]

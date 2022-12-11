@@ -1,0 +1,25 @@
+[
+  {
+    "id": 8,
+    "name": "Severus Snape",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+    "dateOfBirth": "09-01-1960",
+    "yearOfBirth": 1960,
+    "ancestry": "half-blood",
+    "eyeColour": "black",
+    "hairColour": "black",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "doe",
+    "hogwartsStudent": false,
+    "hogwartsStaff": true,
+    "actor": "Alan Rickman",
+    "alive": false,
+    "image": "http://hp-api.herokuapp.com/images/snape.jpg"
+  }
+]

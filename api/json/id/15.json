@@ -1,0 +1,25 @@
+[
+  {
+    "id": 15,
+    "name": "Arthur Weasley",
+    "species": "human",
+    "gender": "male",
+    "house": "Gryffindor",
+    "dateOfBirth": "06-02-1950",
+    "yearOfBirth": 1950,
+    "ancestry": "pure-blood",
+    "eyeColour": "blue",
+    "hairColour": "red",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "weasel",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Mark Williams",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
+  }
+]

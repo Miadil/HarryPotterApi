@@ -1,0 +1,25 @@
+[
+  {
+    "id": 13,
+    "name": "Sirius Black",
+    "species": "human",
+    "gender": "male",
+    "house": "Gryffindor",
+    "dateOfBirth": "03-11-1959",
+    "yearOfBirth": 1959,
+    "ancestry": "pure-blood",
+    "eyeColour": "grey",
+    "hairColour": "black",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "hare",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Gary Oldman",
+    "alive": false,
+    "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
+  }
+]

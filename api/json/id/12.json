@@ -1,0 +1,25 @@
+[
+  {
+    "id": 12,
+    "name": "Ginny Weasley",
+    "species": "human",
+    "gender": "female",
+    "house": "Gryffindor",
+    "dateOfBirth": "11-08-1981",
+    "yearOfBirth": 1981,
+    "ancestry": "pure-blood",
+    "eyeColour": "brown",
+    "hairColour": "red",
+    "wand": {
+      "wood": "yew",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "horse",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Bonnie Wright",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
+  }
+]

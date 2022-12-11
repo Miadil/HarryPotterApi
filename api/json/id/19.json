@@ -1,0 +1,25 @@
+[
+  {
+    "id": 19,
+    "name": "Kingsley Shacklebolt",
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "ancestry": "pure-blood",
+    "eyeColour": "brown",
+    "hairColour": "brown",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "lynx",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "George Harris",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
+  }
+]

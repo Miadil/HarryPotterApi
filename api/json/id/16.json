@@ -1,0 +1,25 @@
+[
+  {
+    "id": 16,
+    "name": "Bellatrix Lestrange",
+    "species": "human",
+    "gender": "female",
+    "house": "Slytherin",
+    "dateOfBirth": "",
+    "yearOfBirth": 1951,
+    "ancestry": "pure-blood",
+    "eyeColour": "brown",
+    "hairColour": "black",
+    "wand": {
+      "wood": "walnut",
+      "core": "dragon heartstring",
+      "length": 12.75
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Helena Bonham Carter",
+    "alive": false,
+    "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
+  }
+]

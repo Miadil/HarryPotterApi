@@ -1,0 +1,25 @@
+[
+  {
+    "id": 21,
+    "name": "Lucius Malfoy",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+    "dateOfBirth": "",
+    "yearOfBirth": 1954,
+    "ancestry": "pure-blood",
+    "eyeColour": "grey",
+    "hairColour": "blonde",
+    "wand": {
+      "wood": "elm",
+      "core": "dragon heartstring",
+      "length": 18
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Jason Isaacs",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
+  }
+]

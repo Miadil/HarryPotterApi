@@ -1,0 +1,25 @@
+[
+  {
+    "id": 9,
+    "name": "Rubeus Hagrid",
+    "species": "half-giant",
+    "gender": "male",
+    "house": "Gryffindor",
+    "dateOfBirth": "06-12-1928",
+    "yearOfBirth": 1928,
+    "ancestry": "half-blood",
+    "eyeColour": "black",
+    "hairColour": "black",
+    "wand": {
+      "wood": "oak",
+      "core": "",
+      "length": 16
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": true,
+    "actor": "Robbie Coltrane",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/hagrid.png"
+  }
+]

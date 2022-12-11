@@ -1,0 +1,25 @@
+[
+  {
+    "id": 14,
+    "name": "Remus Lupin",
+    "species": "werewolf",
+    "gender": "male",
+    "house": "Gryffindor",
+    "dateOfBirth": "10-03-1960",
+    "yearOfBirth": 1960,
+    "ancestry": "half-blood",
+    "eyeColour": "green",
+    "hairColour": "brown",
+    "wand": {
+      "wood": "cypress",
+      "core": "unicorn tail-hair",
+      "length": 10.25
+    },
+    "patronus": "wolf",
+    "hogwartsStudent": false,
+    "hogwartsStaff": true,
+    "actor": "David Thewlis",
+    "alive": false,
+    "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
+  }
+]

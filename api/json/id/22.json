@@ -1,0 +1,25 @@
+[
+  {
+    "id": 22,
+    "name": "Vincent Crabbe",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "ancestry": "pure-blood",
+    "eyeColour": "black",
+    "hairColour": "black",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Jamie Waylett",
+    "alive": false,
+    "image": "http://hp-api.herokuapp.com/images/crabbe.jpg"
+  }
+]

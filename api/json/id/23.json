@@ -1,0 +1,25 @@
+[
+  {
+    "id": 23,
+    "name": "Gregory Goyle",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "ancestry": "pure-blood",
+    "eyeColour": "",
+    "hairColour": "brown",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Josh Herdman",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
+  }
+]

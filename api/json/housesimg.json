@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "img": "https://i2.cdscdn.com/pdt2/7/6/7/1/700x700/auc5055789209767/rw/blason-en-carton-maison-serpentard-poudlard-harry.jpg",
+    "house": "Slytherin"
+  },
+  {
+    "id": 2,
+    "img": "https://www.rueducommerce.fr/medias/281f102700c735ce97e4f16a1e001b63/p_580x580/blason-gryffondor.jpg",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 3,
+    "img": "https://i2.cdscdn.com/pdt2/7/7/4/1/700x700/auc5055789209774/rw/blason-en-carton-maison-serdaigle-poudlard-harry-p.jpg",
+    "house": "Ravenclaw"
+  },
+  {
+    "id": 4,
+    "img": "https://i2.cdscdn.com/pdt2/7/8/1/1/700x700/auc5055789209781/rw/blason-en-carton-maison-poufsouffle-poudlard-harry.jpg",
+    "house": "Hufflepuff"
+  }
+]

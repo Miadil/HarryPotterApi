@@ -1,0 +1,25 @@
+[
+  {
+    "id": 3,
+    "name": "Ron Weasley",
+    "species": "human",
+    "gender": "male",
+    "house": "Gryffindor",
+    "dateOfBirth": "01-03-1980",
+    "yearOfBirth": 1980,
+    "ancestry": "pure-blood",
+    "eyeColour": "blue",
+    "hairColour": "red",
+    "wand": {
+      "wood": "willow",
+      "core": "unicorn tail-hair",
+      "length": 14
+    },
+    "patronus": "Jack Russell terrier",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Rupert Grint",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/ron.jpg"
+  }
+]

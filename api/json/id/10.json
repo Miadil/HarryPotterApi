@@ -1,0 +1,25 @@
+[
+  {
+    "id": 10,
+    "name": "Neville Longbottom",
+    "species": "human",
+    "gender": "male",
+    "house": "Gryffindor",
+    "dateOfBirth": "30-07-1980",
+    "yearOfBirth": 1980,
+    "ancestry": "pure-blood",
+    "eyeColour": "",
+    "hairColour": "blonde",
+    "wand": {
+      "wood": "cherry",
+      "core": "unicorn tail-hair",
+      "length": 13
+    },
+    "patronus": "",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Matthew Lewis",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/neville.jpg"
+  }
+]

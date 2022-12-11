@@ -1,0 +1,25 @@
+[
+  {
+    "id": 25,
+    "name": "Argus Filch",
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "ancestry": "squib",
+    "eyeColour": "",
+    "hairColour": "grey",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": true,
+    "actor": "David Bradley",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/filch.jpg"
+  }
+]

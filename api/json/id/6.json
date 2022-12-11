@@ -1,0 +1,25 @@
+[
+  {
+    "id": 6,
+    "name": "Cedric Diggory",
+    "species": "human",
+    "gender": "male",
+    "house": "Hufflepuff",
+    "dateOfBirth": "",
+    "yearOfBirth": 1977,
+    "ancestry": "",
+    "eyeColour": "grey",
+    "hairColour": "brown",
+    "wand": {
+      "wood": "ash",
+      "core": "unicorn hair",
+      "length": 12.25
+    },
+    "patronus": "",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Robert Pattinson",
+    "alive": false,
+    "image": "http://hp-api.herokuapp.com/images/cedric.png"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": 6,
+    "name": "Cedric Diggory",
+    "species": "human",
+    "gender": "male",
+    "house": "Hufflepuff",
+    "dateOfBirth": "",
+    "yearOfBirth": 1977,
+    "ancestry": "",
+    "eyeColour": "grey",
+    "hairColour": "brown",
+    "wand": {
+      "wood": "ash",
+      "core": "unicorn hair",
+      "length": 12.25
+    },
+    "patronus": "",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Robert Pattinson",
+    "alive": false,
+    "image": "http://hp-api.herokuapp.com/images/cedric.png"
+  },
+  {
+    "id": 26,
+    "name": "Hannah Abbott",
+    "species": "human",
+    "gender": "female",
+    "house": "Hufflepuff",
+    "dateOfBirth": "31-08-1980",
+    "yearOfBirth": 1980,
+    "ancestry": "half-blood",
+    "eyeColour": "Brown",
+    "hairColour": "Blonde",
+    "wand": {
+      "wood": "holly",
+      "core": "phoenix feather",
+      "length": 11
+    },
+    "patronus": "Non-corporeal",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alive": true,
+    "image": "http://hp-api.herokuapp.com/images/harry.jpg"
+  }
+]
