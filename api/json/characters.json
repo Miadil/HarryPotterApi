@@ -43,7 +43,7 @@
     "hogwartsStaff": false,
     "actor": "Emma Watson",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/hermione.jpeg"
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/3/3e/Hermione.jpg/revision/latest/scale-to-width-down/1000?cb=20220415213908&path-prefix=ro"
   },
   {
     "id": 3,
@@ -66,7 +66,7 @@
     "hogwartsStaff": false,
     "actor": "Rupert Grint",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/ron.jpg"
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/85/Ron_Weasley.jpg/revision/latest?cb=20170102164838&path-prefix=ro"
   },
   {
     "id": 4,
@@ -89,7 +89,7 @@
     "hogwartsStaff": false,
     "actor": "Tom Felton",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/draco.jpg"
+    "image": "https://series-y-peliculas.com/wp-content/uploads/2021/05/draco.jpeg"
   },
   {
     "id": 5,
@@ -112,7 +112,7 @@
     "hogwartsStaff": true,
     "actor": "Dame Maggie Smith",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
+    "image": "https://i.pinimg.com/originals/2b/7a/bc/2b7abc44aa41cc739c9bdde81f30accd.jpg"
   },
   {
     "id": 6,
@@ -135,7 +135,7 @@
     "hogwartsStaff": false,
     "actor": "Robert Pattinson",
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/cedric.png"
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2e/PromoHP4_Cedric3.jpg/revision/latest?cb=20090918145013&path-prefix=fr"
   },
   {
     "id": 7,
@@ -158,7 +158,7 @@
     "hogwartsStaff": false,
     "actor": "Katie Leung",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/cho.jpg"
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d3/PromoHP5_Cho_Chang.jpg/revision/latest?cb=20090322135602&path-prefix=fr"
   },
   {
     "id": 8,
@@ -181,7 +181,7 @@
     "hogwartsStaff": true,
     "actor": "Alan Rickman",
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/snape.jpg"
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a3/Severus_Snape.jpg/revision/latest?cb=20150307193047"
   },
   {
     "id": 9,
@@ -204,7 +204,7 @@
     "hogwartsStaff": true,
     "actor": "Robbie Coltrane",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/hagrid.png"
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1a/PromoHP3_Rubeus_Hagrid.jpg/revision/latest?cb=20090103221029&path-prefix=fr"
   },
   {
     "id": 10,
