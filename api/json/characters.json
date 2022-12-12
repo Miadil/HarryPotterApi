@@ -43,7 +43,7 @@
     "hogwartsStaff": false,
     "actor": "Emma Watson",
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/3/3e/Hermione.jpg/revision/latest/scale-to-width-down/1000?cb=20220415213908&path-prefix=ro"
+    "image": "https://lespotiches.com/wp-content/uploads/2020/06/hermione-granger-portrait-flickr.jpg"
   },
   {
     "id": 3,
@@ -66,7 +66,7 @@
     "hogwartsStaff": false,
     "actor": "Rupert Grint",
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/85/Ron_Weasley.jpg/revision/latest?cb=20170102164838&path-prefix=ro"
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Ron_Weasley_poster.jpg"
   },
   {
     "id": 4,
