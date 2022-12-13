@@ -112,7 +112,7 @@
     "hogwartsStaff": true,
     "actor": "Dame Maggie Smith",
     "alive": true,
-    "image": "https://www.poudlard.org/wp-content/uploads/sites/8/2017/10/mcgonagall_portrait.jpg"
+    "image": "https://media.harrypotterfanzone.com/minerva-mcgonagall-prisoner-of-azkaban-portrait.jpg"
   },
   {
     "id": 6,
@@ -135,7 +135,7 @@
     "hogwartsStaff": false,
     "actor": "Robert Pattinson",
     "alive": false,
-    "image": "https://i.pinimg.com/originals/51/8d/ae/518dae2ba5e02586e8ed818b1c98fd0c.jpg"
+    "image": "https://media.harrypotterfanzone.com/cedric-diggory-goblet-of-fire-portrait.jpg"
   },
   {
     "id": 7,
@@ -204,7 +204,7 @@
     "hogwartsStaff": true,
     "actor": "Robbie Coltrane",
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1a/PromoHP3_Rubeus_Hagrid.jpg/revision/latest?cb=20090103221029&path-prefix=fr"
+    "image": "https://media.harrypotterfanzone.com/rubeus-hagrid-prisoner-of-azkaban-portrait.jpg"
   },
   {
     "id": 10,
@@ -227,7 +227,7 @@
     "hogwartsStaff": false,
     "actor": "Matthew Lewis",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/neville.jpg"
+    "image": "https://media.harrypotterfanzone.com/neville-longbottom-toad-prisoner-of-azkaban-portrait.jpg"
   },
   {
     "id": 11,
@@ -250,7 +250,7 @@
     "hogwartsStaff": false,
     "actor": "Evanna Lynch",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/luna.jpg"
+    "image": "https://media.harrypotterfanzone.com/luna-lovegood-order-of-the-phoenix-portrait-4.jpg"
   },
   {
     "id": 12,
@@ -273,7 +273,7 @@
     "hogwartsStaff": false,
     "actor": "Bonnie Wright",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
+    "image": "https://media.harrypotterfanzone.com/ginny-weasley-order-of-the-phoenix-portrait-10.jpg"
   },
   {
     "id": 13,
@@ -296,7 +296,7 @@
     "hogwartsStaff": false,
     "actor": "Gary Oldman",
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
+    "image": "https://media.harrypotterfanzone.com/sirius-black-order-of-the-phoenix-portrait.jpg"
   },
   {
     "id": 14,
@@ -319,7 +319,7 @@
     "hogwartsStaff": true,
     "actor": "David Thewlis",
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
+    "image": "https://media.harrypotterfanzone.com/remus-lupin-deathly-hallows-part-1-portrait.jpg"
   },
   {
     "id": 15,
@@ -342,7 +342,7 @@
     "hogwartsStaff": false,
     "actor": "Mark Williams",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
+    "image": "https://media.harrypotterfanzone.com/arthur-weasley-wedding-portrait.jpg"
   },
   {
     "id": 16,
@@ -365,7 +365,7 @@
     "hogwartsStaff": false,
     "actor": "Helena Bonham Carter",
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
+    "image": "https://media.harrypotterfanzone.com/bellatrix-lestrange-order-of-the-phoenix-portrait-3.jpg"
   },
   {
     "id": 17,
@@ -388,7 +388,7 @@
     "hogwartsStaff": false,
     "actor": "Ralph Fiennes",
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
+    "image": "https://media.harrypotterfanzone.com/deathly-hallows-part-1-voldemort-poster.jpg"
   },
   {
     "id": 18,
@@ -411,7 +411,7 @@
     "hogwartsStaff": true,
     "actor": "Jim Broadbent",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
+    "image": "https://media.harrypotterfanzone.com/horace-slughorn-half-blood-prince-portrait-4.jpg"
   },
   {
     "id": 19,
@@ -434,7 +434,7 @@
     "hogwartsStaff": false,
     "actor": "George Harris",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
+    "image": "https://media.harrypotterfanzone.com/kingsley-shacklebolt-order-of-the-phoenix-portrait-3.jpg"
   },
   {
     "id": 20,
@@ -457,7 +457,7 @@
     "hogwartsStaff": true,
     "actor": "Imelda Staunton",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
+    "image": "https://media.harrypotterfanzone.com/dolores-umbridge-order-of-the-phoenix-portrait-5.jpg"
   },
   {
     "id": 21,
@@ -480,7 +480,7 @@
     "hogwartsStaff": false,
     "actor": "Jason Isaacs",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
+    "image": "https://media.harrypotterfanzone.com/lucius-malfoy-order-of-the-phoenix-portrait-2.jpg"
   },
   {
     "id": 22,
@@ -503,7 +503,7 @@
     "hogwartsStaff": false,
     "actor": "Jamie Waylett",
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/crabbe.jpg"
+    "image": "https://media.harrypotterfanzone.com/vincent-crabbe-goblet-of-fire-portrait.jpg"
   },
   {
     "id": 23,
@@ -526,7 +526,7 @@
     "hogwartsStaff": false,
     "actor": "Josh Herdman",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
+    "image": "https://media.harrypotterfanzone.com/gregory-goyle-prisoner-of-azkaban-portrait.jpg"
   },
   {
     "id": 24,
@@ -549,7 +549,7 @@
     "hogwartsStaff": true,
     "actor": "Maxime, Alanis and Tommy the cats",
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/norris.JPG"
+    "image": "https://img.wattpad.com/073c86490c551da5d2683300de6d1b1d1f43bc5a/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6f634458376c7755756c667733673d3d2d3337393637333139312e3134613837636663313830303961663033323132353434313235392e6a7067?s=fit&w=720&h=720"
   },
   {
     "id": 25,
